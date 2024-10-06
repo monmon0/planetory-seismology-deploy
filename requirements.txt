@@ -6,4 +6,3 @@ pandas
 holoviews
 panel
 pandas
-os
