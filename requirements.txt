@@ -1,0 +1,9 @@
+matplotlib
+numpy
+obspy
+scipy
+pandas
+holoviews
+panel
+pandas
+os
